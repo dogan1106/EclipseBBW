@@ -1,6 +1,6 @@
 package TICTACTOE;
 
-//Importiere notwendige Bibliotheken 
+//Importiere notwendige Bibliotheken test
 
 import java.awt.*;
 import java.awt.event.*;

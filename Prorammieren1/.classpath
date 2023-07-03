@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/json-20220924.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/MYSQL/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/poi-bin-5.2.3-20220909/poi-bin-5.2.3/ooxml-lib/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/poi-bin-5.2.3-20220909/poi-bin-5.2.3/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/poi-bin-5.2.3-20220909/poi-bin-5.2.3/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/eclipse/plugins/apache-log4j-2.20.0-bin/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/eclipse/plugins/apache-log4j-2.20.0-bin/log4j-api-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D.Dogan/eclipse/plugins/org.apache.commons.compress_1.21.0.v20211103-2100.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/apache-tomcat-9.0.65/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/apache-tomcat-9.0.65/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/apache-tomcat-9.0.65/bin/tomcat-juli.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
